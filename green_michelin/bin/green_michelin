@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require_relative '../lib/green_michelin'
+
+GreenMichelin::CLI.new.call
